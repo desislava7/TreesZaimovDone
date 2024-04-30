@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\desislava11d\\TreesZaimov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE6399C-4F69-49D4-ACD7-2E1A420FA46A}|Trees\\Trees.csproj|c:\\desislava11d\\treeszaimov\\trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE6399C-4F69-49D4-ACD7-2E1A420FA46A}|Trees\\Trees.csproj|solutionrelative:trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE6399C-4F69-49D4-ACD7-2E1A420FA46A}|Trees\\Trees.csproj|C:\\desislava11d\\TreesZaimov\\trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FE6399C-4F69-49D4-ACD7-2E1A420FA46A}|Trees\\Trees.csproj|solutionrelative:trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE6399C-4F69-49D4-ACD7-2E1A420FA46A}|Trees\\Trees.csproj|C:\\desislava11d\\TreesZaimov\\trees\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE6399C-4F69-49D4-ACD7-2E1A420FA46A}|Trees\\Trees.csproj|solutionrelative:trees\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\desislava11d\\TreesZaimov\\Trees\\Form1.cs",
+              "RelativeDocumentMoniker": "Trees\\Form1.cs",
+              "ToolTip": "C:\\desislava11d\\TreesZaimov\\Trees\\Form1.cs",
+              "RelativeToolTip": "Trees\\Form1.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAIwLUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:11:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\desislava11d\\TreesZaimov\\Trees\\Form1.cs",
+              "RelativeDocumentMoniker": "Trees\\Form1.cs",
+              "ToolTip": "C:\\desislava11d\\TreesZaimov\\Trees\\Form1.cs [Design]",
+              "RelativeToolTip": "Trees\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:57:25.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboBoxItem.cs",
+              "DocumentMoniker": "C:\\desislava11d\\TreesZaimov\\Trees\\ComboBoxItem.cs",
+              "RelativeDocumentMoniker": "Trees\\ComboBoxItem.cs",
+              "ToolTip": "C:\\desislava11d\\TreesZaimov\\Trees\\ComboBoxItem.cs",
+              "RelativeToolTip": "Trees\\ComboBoxItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:16:36.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
